@@ -75,7 +75,7 @@ LOG_CHANNEL_ID=channel_id_for_logs
 ### Evidence Management
 - `/evidence add <username> <url>`
   - Add new evidence to database
-  - Available to all users
+  - Staff only
   - Requires valid URL
 
 - `/evidence remove <id>`
